@@ -1,0 +1,6 @@
+Media Automation Summary
+========================
+
+Total Videos: 1
+
+- video1.mp4 | 629.93s | 640x360 | 11.32MB
